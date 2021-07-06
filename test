@@ -1,3 +1,3 @@
-git clone https://github.com/savvycw/Running-the-OT-2
-cd Running-the-OT2
+git clone https://github.com/savvycw/Running-the-OT-2.git
+cd Running-the-OT2/
 jupyter lab
